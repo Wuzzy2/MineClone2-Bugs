@@ -8,7 +8,8 @@ The code of MineClone 2 is located at <http://repo.or.cz/MineClone/MineClone2.gi
 ## Bug reporting guidelines
 
 - Please *only* report bugs here
-- Don't forget to mention the version number
+- Mention the version number
+- The more information, the better
 - Bugs include:
    - Crashes
    - Error messages in chat/console
@@ -19,6 +20,7 @@ The code of MineClone 2 is located at <http://repo.or.cz/MineClone/MineClone2.gi
    - Poor usability in your opinion
    - Typos
 - Be prepared to post proof for any claims of incorrect gameplay, especially when it's about internal numbers. A link to Minecraft Wiki or a Let's Play video (don't forget to mention the time!) is usually enough
+- For crashes and error messages, please post the output of the debug log
 - A feature request is okay if:
    - It's about a feature that Minecraft has
    - It's a GUI or usability improvement in general
