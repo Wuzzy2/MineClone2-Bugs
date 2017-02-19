@@ -7,7 +7,8 @@ The code of MineClone 2 is located at <http://repo.or.cz/MineClone/MineClone2.gi
 
 ## Bug reporting guidelines
 
-- Please *only* report bugs here
+- Please *only* report bugs or missing Minecraft features here
+- File *one* issue per bug / missing feature
 - Mention the version number
 - The more information, the better
 - Bugs include:
