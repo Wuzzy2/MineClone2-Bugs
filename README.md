@@ -30,6 +30,7 @@ The code of MineClone 2 is located at <http://repo.or.cz/MineClone/MineClone2.gi
    - Support requests (go to the forums instead)
    - Requests to deviate from Minecraft gameplay
    - Requests to include proprietary code or data
+   - Reports about “wrong textures”, “wrong models” or “wrong sounds“ without further explanation what is wrong about them
 
 Keep these things in mind:
 
