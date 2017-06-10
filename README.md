@@ -26,7 +26,6 @@ The code of MineClone 2 is located at <http://repo.or.cz/MineClone/MineClone2.gi
    - It's about a feature that Minecraft has
    - It's a GUI or usability improvement in general
 - The following things will be instantly rejected:
-   - Pull requests
    - Support requests (go to the forums instead)
    - Requests to deviate from Minecraft gameplay
    - Requests to include proprietary code or data
