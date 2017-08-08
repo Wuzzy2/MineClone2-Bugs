@@ -1,39 +1,49 @@
 # MineClone 2 Bug Tracker
-This is your place for reporting and tracking bugs of MineClone 2, a voxel-based sandbox game (Minecraft clone) for Minetest.
+This is your place for reporting bugs, missing features of MineClone 2, a voxel-based sandbox game (Minecraft clone) for Minetest.
+To some extent, you can also post art contributions here.
 
-The download link and forum discussion can be found at <https://forum.minetest.net/viewtopic.php?f=50&t=16407>.
+The MineClone 2 download link and forum discussion can be found at <https://forum.minetest.net/viewtopic.php?f=50&t=16407>.
 
 The code of MineClone 2 is located at <http://repo.or.cz/MineClone/MineClone2.git>.
 
-## Bug reporting guidelines
-
-- Please *only* report bugs or missing Minecraft features here
-- File *one* issue per bug / missing feature
-- Mention the version number
-- The more information, the better
+## Issue guidelines
+### Bugs
+- *One* issue per bug
+- Prepare to bring the following information:
+   - What went wrong
+   - How to reproduce the bug (if possible)
+   - Version number
+   - For crashes and error messages: Output of the debug log
+   - For “wrong” textures: Why you think they are wrong
 - Bugs include:
    - Crashes
    - Error messages in chat/console
-   - Incorrect “numbers”, inonsistent with Minecraft (drops, health, probabilities, weapon damage, etc.)
-   - Incorrect behaviour / gameplay, inconsistent with Minecraft's gameplay
-   - MineClone 2 doesn't have a feature that Minecraft has
-   - Missing crafting recipes
+   - Any inconsistency with Minecraft
    - Poor usability in your opinion
    - Typos
-- Be prepared to post proof for any claims of incorrect gameplay, especially when it's about internal numbers. A link to Minecraft Wiki or a Let's Play video (don't forget to mention the time!) is usually enough
-- For crashes and error messages, please post the output of the debug log
+   
+### Missing features
+- Be prepared to post proof for any claims of incorrect gameplay. A link to Minecraft Wiki or a Let's Play video (with time!) is usually enough
 - A feature request is okay if:
    - It's about a feature that Minecraft has
    - It's a GUI or usability improvement in general
-- The following things will be instantly rejected:
-   - Support requests (go to the forums instead)
-   - Requests to deviate from Minecraft gameplay
-   - Requests to include proprietary code or data
-   - Reports about “wrong textures”, “wrong models” or “wrong sounds“ without further explanation what is wrong about them
 
-Keep these things in mind:
+### Contributions
+Contributions for MineClone 2 are accepted to *some* extent. If you want to help, check out issues with the “help wanted” label. Just follow this link:
+https://github.com/Wuzzy2/MineClone2-Bugs/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22
+
+Note I will only include media files if you agree with MineClone 2 licensing. Proprietary things will always be rejected.
+
+### Invalid issues
+- Support requests (go to the [forums](https://forum.minetest.net/viewtopic.php?f=50&t=16407) instead)
+- Requests to deviate from Minecraft gameplay
+- Requests to include proprietary code or data
+
+## Scope of MineClone 2
+Please keep the scope of MineClone 2 in mind when posting issues:
 
 - The current target of this clone is Minecraft version 1.11, PC Edition
+- Adding features of later versions is possible, but they are all automatically of low priority
 - The highest priority of this clone is to clone Minecraft's *gameplay*
 - It is not the goal to imitate the GUI perfectly (only roughly)
-- I intentionally added a couple of crafting recipes not found in Minecraft to make it possible to access some currently otherwise unobtainable items 
+- I intentionally added a couple of crafting recipes not found in Minecraft to make it possible to access some currently otherwise unobtainable items
