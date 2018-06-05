@@ -1,4 +1,10 @@
-# MineClone 2 Bug Tracker
+# MineClone 2 Bug Tracker Archive
+**IMPORTANT**: This is the archive of the bugtracker for MineClone 2, archived at June 5, 2018. No new bug reports are currently being accepted.
+
+The original text of this readme follows:
+
+---
+
 This is your place for reporting bugs, missing features of MineClone 2, a voxel-based sandbox game (Minecraft clone) for Minetest.
 To some extent, you can also post art contributions here.
 
