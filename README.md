@@ -1,5 +1,8 @@
 # MineClone 2 Bug Tracker Archive
-**IMPORTANT**: This is the archive of the bugtracker for MineClone 2, archived at June 5, 2018. No new bug reports are currently being accepted.
+**IMPORTANT**: This is the archive of the bugtracker for MineClone 2, archived at June 5, 2018. No new bug reports will be accepted.
+The MineClone 2 bug tracker has been moved to: https://git.minetest.land/Wuzzy/MineClone2-Bugs
+
+---
 
 The original text of this readme follows:
 
